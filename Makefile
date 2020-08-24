@@ -1,4 +1,4 @@
 all:
-	gcc test.c -o test
+	gcc hello.c -o hello
 clean:
-	rm -fr test *.o
+	rm -fr hello *.o
